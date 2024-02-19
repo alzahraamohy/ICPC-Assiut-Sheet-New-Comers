@@ -1,2 +1,2 @@
 # ICPC-Assiut-Sheet-New-Comers
-A repository to solve the sheet problems
+A repository to solve the sheet problems using c++.
